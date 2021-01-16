@@ -6,4 +6,4 @@
 - 📫 Email: Python -''.join('danielho1', '@', 'yahoo.com') or [LinkedIn](https://www.linkedin.com/in/danielho-/) 
 - 😄 Pronouns: He/him
 
-Check out my site and reach out! [danielho.rocks](danielho.rocks)
+Check out my site and reach out! [danielho.rocks](htttps://danielho.rocks)
